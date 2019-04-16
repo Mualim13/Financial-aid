@@ -1,10 +1,12 @@
-Why are you applying for Financial Aid:
+#Why are you applying for Financial Aid?
 
 
 Hello dear reviewer! My name is Ubaid Manzoor and I am from India. As you may know that our country belongs to a very poor countries. An average salary is 616 US dollars per month and our state's average salary is only 315 US dollars per month. Can you imagine living on this money? But things get even worse when you are a student. I even can't feed myself.I  am fully dependent on my parents. For me, it seems impossible to pay for an entire course by myself. My parent neither can help me. I would say the main reason I ' m asking you for the Financial Aid is the circumstances due to which I happened to born in a beautiful country – India. Receiving this Financial Aid will open for me a new horizons of the world of Coursera courses, which in turn will help me in future.
 
-How will taking this course help you achieve your carreer goals?
+#How will taking this course help you achieve your carreer goals?
 
 By my nature, I am a very curious person. In my university, I am the best student. I haven't received any bad marks for a whole period of studying. I chose my specialty as well as my future job based on my interest. I strongly believe that making your job a hobby will allow you to reach a very high place. This belief has helped me a lot during my studying and I hope will help in the future. As I have already mentioned I make my specialty to be my hobby (and vice versa). I'm really interested in taking your course  since this is one of the topics which I will face in future if I want to be a Machine Learning specialist. As you may know, this nowadays is very much useful in Machine Learning. Taking this course will help me to get closer to my dreams to become a Machine Learning specialist.
+
+#If you answered no, please help us understand why?
 
 As I say unemployed and neither my parent can't help me due to our condition.
